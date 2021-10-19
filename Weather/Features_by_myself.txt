@@ -1,0 +1,6 @@
+avgTa     기온
+sumRn   강수량
+avgWs   풍속
+avgRhm 습도 
+avgTd    이슬점
+avgPa    기압
