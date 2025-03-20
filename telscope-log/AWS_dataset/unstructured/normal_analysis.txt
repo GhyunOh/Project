@@ -1,0 +1,2003 @@
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:48+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [J5CZXE4KTQJ9NEP3]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/datatables/dataTables.bootstrap4.min.js]
+ 8 [GET,/vendor/datatables/dataTables.bootstrap4.min.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [2098]
+12 [2098]
+13 [50]
+14 [49]
+15 [http://jeehyun-main.link/tables.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [KZlLX53p0+de/RxDDIRfHHwIU3U2Aoc3noBIWC2YBnRchCslyu82Rp84wKIKmQqMCTbTr/hS5WU=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK89BHYR57ETB81E]
+ 6 [REST.GET.LOGGING_STATUS]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?logging=,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [261]
+12 [-]
+13 [30]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [/V2TjVrP8RIViN/Nn9VR0u3IhCVe8fGO7Yq2BqNrnGiJRZ1H38lU81YgMqHfzgSk17PVN8c7OIk=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:17+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [075MKCS20SFH2Z9R]
+ 6 [REST.GET.POLICY_STATUS]
+ 7 [-]
+ 8 [GET,/?policyStatus,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [141]
+12 [-]
+13 [7]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [S+fa66g/QaVPH82e3mEmZM0gSWeHYcFi8U2SHM1tHibC/V7UltBGBSFT0funcfqmp0tzXBPsSPM=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [jeehyun-main.link.s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:17+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [075TA44R87MV4GRM]
+ 6 [REST.GET.ACL]
+ 7 [-]
+ 8 [GET,/?acl,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [590]
+12 [-]
+13 [14]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [aNpAoxY5sPlK1Fj6LIpgivmYUkFs70EeVDXlS85s7Oty6Mr/qIM37fGKWrmmIfNPmGXVP+Q96y0=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [jeehyun-main.link.s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:17+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [075V28205NCYDB60]
+ 6 [REST.GET.PUBLIC_ACCESS_BLOCK]
+ 7 [-]
+ 8 [GET,/?publicAccessBlock,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [330]
+12 [-]
+13 [28]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [J1DE9JEVTOr+a/sYwodm+MvUdaWBx0xhSqdV9znfc0G7fnmA/1Sz2EZlGDBstGTE7XcRy3+zPfk=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [jeehyun-main.link.s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:25+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [CTAG0J1FJBEBZKZP]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/fontawesome-free/css/all.min.css]
+ 8 [GET,/vendor/fontawesome-free/css/all.min.css,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [59344]
+13 [25]
+14 [-]
+15 [http://jeehyun-main.link/]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [fSzEMimy0iErHmPGjVyHTj9X/xKeUSeLn1FVhQLrk60PFloymXJ+u/t0U07iKqazp/HK1IwpUM4=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:25+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [CTANWCJ3GKY4A7GM]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/jquery-easing/jquery.easing.min.js]
+ 8 [GET,/vendor/jquery-easing/jquery.easing.min.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [2532]
+12 [2532]
+13 [75]
+14 [74]
+15 [http://jeehyun-main.link/]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [0VkaSCtm3l9S9M/ahXwbMTxSPfP39naEVrlgu7Cv9b7d5DuW0+V7nmZK+IO7LVIEnITU64YTdpI=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:25+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [CTAV5A9S7X2SCKC6]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [js/sb-admin-2.min.js]
+ 8 [GET,/js/sb-admin-2.min.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [1265]
+12 [1265]
+13 [77]
+14 [76]
+15 [http://jeehyun-main.link/]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [TgHvcRVlsuGmwuWm2+BMs/T3+NSFNrfuKmYYFkeHj/TrVOtpXvp4Sy8eAiTvkiUEnkS9vzoXTFY=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:26+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [N02ERBJJHFA1GRSP]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/fontawesome-free/webfonts/fa-brands-400.woff2]
+ 8 [GET,/vendor/fontawesome-free/webfonts/fa-brands-400.woff2,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [76764]
+13 [11]
+14 [-]
+15 [http://jeehyun-main.link/vendor/fontawesome-free/css/all.min.css]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [TpNwMEwxKPEmifcFnSLCg54myRCCnsJnsMsce7h1nCUynDNjOrrYQU8rQqxqtSLi5RLTS4xJ43s=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:34+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [RSTX3JBT7ND37A1J]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [register.html]
+ 8 [GET,/register.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [4730]
+12 [4730]
+13 [36]
+14 [35]
+15 [http://jeehyun-main.link/]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [HAiwp0nEWFl5YRjHCjeEcMpbgKzlqGcd7+RoWtqrSUBrk2Hd3SMV/J4cCpvEc66GHwB2FhJ4DvM=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:36+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [WJ2TVTPW2PXR6ZJX]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [login.html]
+ 8 [GET,/login.html,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [4705]
+13 [7]
+14 [-]
+15 [http://jeehyun-main.link/register.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [iOWN+6E8EThDihZ7r9+23x74D06UXD/D5AqvU13Hp3GW0XFl/Onpv2kO3hb9/JY7LO8T4H3j2VI=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWE194E2TDE2F8NZ]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [img/undraw_rocket.svg]
+ 8 [GET,/img/undraw_rocket.svg,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [3147]
+12 [3147]
+13 [52]
+14 [52]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [LCcBudas6pc+l+5FFR6aL6kecYYHC7h22hUIrIAxMAIELZfrycU4T5xPWluGqXHaUrMGIWCxRos=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWE733DYMCSM6N2S]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [index.html]
+ 8 [GET,/index.html,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [42779]
+13 [9]
+14 [-]
+15 [http://jeehyun-main.link/login.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [w2pWVMMAW4MqnnJbUlFKceNnlfteA3EfQHuqXxDwwlc98g8+owCmoWzOR3i5Jy1A3aBSn92zyJk=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:38+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [QZM9NSH7CKZCT4RS]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [img/undraw_profile_3.svg]
+ 8 [GET,/img/undraw_profile_3.svg,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [2733]
+12 [2733]
+13 [42]
+14 [41]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [hpxk+P1LwKg7NxTk4cnTI4F2lhncUR4UPh8C1xXxb/amb6wCblW1PQJKtX1NJpWuYKk/b78zLQY=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:41+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [40Y4N60A8DQKQ3TD]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [buttons.html]
+ 8 [GET,/buttons.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [32956]
+12 [32956]
+13 [31]
+14 [30]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [80wp0Zas29HS4wbw5cLI0VzxFkBNfVIUjUeOFOpAk4mfgRSechowBhrpnXmpE1Et0HMu3y2tIYw=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:42+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [YVD46F5V61S6YS3V]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [cards.html]
+ 8 [GET,/cards.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [32247]
+12 [32247]
+13 [46]
+14 [45]
+15 [http://jeehyun-main.link/buttons.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [jo0CjzdzVrd6rkpcDsyT4sSO5MVfNSyvoWEQVVn5+4Y0Y749coEcytqY4FAOYGhWyou1+EP+S2k=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:43+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [WZ1R33E09EBPMHAN]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [utilities-color.html]
+ 8 [GET,/utilities-color.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [27291]
+12 [27291]
+13 [47]
+14 [46]
+15 [http://jeehyun-main.link/cards.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [bkDTRDwcHAVrkCuIOJaIEHTxR4FBwJVeDnMWNEyfzD5g5EBYQjPCwXD8kFUL4IC4Is0kyC1V0tQ=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:44+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [W1F0GK7EB2GVFAMW]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [utilities-animation.html]
+ 8 [GET,/utilities-animation.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [28641]
+12 [28641]
+13 [62]
+14 [61]
+15 [http://jeehyun-main.link/utilities-border.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [bmoPN0ZBMcidnMj1ckBbjug4cHoHiYRQKB0X5amrfDdDr0suM+SJ4MVyW1NWdd7q8agM+8TufNs=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:44+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [W1FFAA5106NHXHGH]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [utilities-border.html]
+ 8 [GET,/utilities-border.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [26234]
+12 [26234]
+13 [63]
+14 [62]
+15 [http://jeehyun-main.link/utilities-color.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [iWuRLFZAfXORQHfkz2HT1pahQuQRbU/Anv9PU89WgG9mjdpUFb3Q59aL0VlDBqDmlzToDjOlZcI=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:45+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [1TY6J6J8EPE8WZ4R]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [utilities-other.html]
+ 8 [GET,/utilities-other.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [26674]
+12 [26674]
+13 [46]
+14 [45]
+15 [http://jeehyun-main.link/utilities-animation.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [psxI2VJumgICESBa98+H848VNZ6P81osvyi4JhZmplNs1FsZFMyITw0ojYn+S/KvkJIGRgMPvjI=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:46+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [9E8H53G3RD6JVQRD]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [charts.html]
+ 8 [GET,/charts.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [25285]
+12 [25285]
+13 [32]
+14 [31]
+15 [http://jeehyun-main.link/utilities-other.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [z7VnHRUW6bNcKTXg0dOV4J04A4Pbku9RvjqupEiPSacgy3a18jbzJ3WierLn4LlhYFkSCaTxipA=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:46+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [9E8HDQWMF487XXJN]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [js/demo/chart-bar-demo.js]
+ 8 [GET,/js/demo/chart-bar-demo.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [3189]
+12 [3189]
+13 [36]
+14 [35]
+15 [http://jeehyun-main.link/charts.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [cC3LUG2ksMkAw5U2Py6fgw+5jMR0wQOCrgiX1JepHkDGjYe/Nafh2jut3tstyYjLEu/gmfQKEV8=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:48+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [J5CGKFF5S3YNGQ3M]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/datatables/jquery.dataTables.min.js]
+ 8 [GET,/vendor/datatables/jquery.dataTables.min.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [83602]
+12 [83602]
+13 [80]
+14 [79]
+15 [http://jeehyun-main.link/tables.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [vlLhsqcfoOI2X4YRW07v5Vcsteh1J7O7hzGqfWu5Sco7JAiRhhEyh2cW88LrkfkXRWuRQgdaee4=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:48+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [J5CN5ZFDSSE35BFK]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [tables.html]
+ 8 [GET,/tables.html,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [51345]
+12 [51345]
+13 [39]
+14 [39]
+15 [http://jeehyun-main.link/charts.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [K3Camet47S1W4piWFSVK6Zd1kCrKbsGE8JfpEkFgzRzqDACZQwcxgbph7BwA0YaIuLpHJLSB64o=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK89X21Q65WR7RFM]
+ 6 [REST.HEAD.BUCKET]
+ 7 [-]
+ 8 [HEAD,/jeehyun-main.link,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [-]
+13 [27]
+14 [26]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [rxL4spPxZTJQ4tcuHPyN9NE+7u6pTnl21BMoY9sLc6BAu30bRpGJMSI0MzG46VenqsEbUfuI1/A=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWE5PQG7K7HHMD15]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [js/demo/chart-pie-demo.js]
+ 8 [GET,/js/demo/chart-pie-demo.js,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [1057]
+13 [10]
+14 [-]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [K2PHKJIthBR9LFXtZO+m2HLkB1TQP8RmuswCJBdrRU4w18wO5XBJ2E2dNuLEJH8+glpCRts5HqM=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWE85QD0R4CXFY7M]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/fontawesome-free/webfonts/fa-solid-900.woff2]
+ 8 [GET,/vendor/fontawesome-free/webfonts/fa-solid-900.woff2,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [78196]
+13 [11]
+14 [-]
+15 [http://jeehyun-main.link/vendor/fontawesome-free/css/all.min.css]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [p89bUCZSrrzSNJBDqHw1G91wFgz+nE36wektxsqA0gOkTq42he7jdM1+uQWm52NvY8BsmL3V+D4=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWEB5BVR08GEPN2P]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [js/demo/chart-area-demo.js]
+ 8 [GET,/js/demo/chart-area-demo.js,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [3569]
+13 [26]
+14 [-]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [BttGNJz/sTYDe6C+FGrvKsA+xsz3gw8T8PwoEXrqpvkkRFGLdn7UObVJpbM4qnsm4eXxFPXqcw4=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK8BSCVYDAG6G0NJ]
+ 6 [REST.GET.ENCRYPTION]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?encryption=,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [320]
+12 [-]
+13 [40]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [6Tf1NGS64lnGPBixt4O4ioK05loe9M4ITd+QDwSBr2rMsoKYnRA23SOnb+A0I2sjkx81uzUpN1ksHAYMJE9dOA==]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK8EDM547FRQ2WWJ]
+ 6 [REST.GET.VERSIONING]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?versioning=,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [113]
+12 [-]
+13 [26]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [XEA29SzlGfyjhGCT8o4aG/Glv9P2js1iPqTwHQ4CwxkoyBf/BFpT+ZJKyGKyuSEs5JV7kQQS788=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK8A15Q8AWZD6PXN]
+ 6 [REST.GET.WEBSITE]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?website=,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [240]
+12 [-]
+13 [29]
+14 [25]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [2AUWNxtnKD3SV6Mc8jH+AkdOHPyr5GrQVAnx1I+kfjsDIFwKpEju5vgFPajbh3lwh21g2vN9IkI=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK84ZETP6NNG5NEV]
+ 6 [REST.GET.TAGGING]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?tagging=,HTTP/1.1]
+ 9 [404]
+10 [NoSuchTagSet]
+11 [297]
+12 [-]
+13 [40]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [7U1vvqUkJxxsrbWxW/+NBqyqlKkuyPVF9Wg/ZAaeRRfHKHR6FWSSUDK8Yu4D2qQnzL3TQzN8JDk=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK8EHX1ZY6761CMK]
+ 6 [REST.GET.INTELLIGENT_TIERING]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?intelligent-tiering=,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [169]
+12 [-]
+13 [86]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [Lukd+7myCVcgU7jdrPhFIaSE68yQsbHyOz2S+ToKH5owBkHjwC+yWn7xIfqwzmnQoZoNBtA9Jcc=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK88ZFRSJQAZ28YD]
+ 6 [REST.GET.ACCELERATE]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?accelerate=,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [113]
+12 [-]
+13 [28]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [9xiAYe9wDRwGSyZR588uJQDf3Y3FiYyhoaDbEa/V1HqCNRLTqJ9pKDKjX9X1g2AAJbGAm7jnbpY=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:25+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [CTAMXYWH2CZFWG4Y]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [css/sb-admin-2.min.css]
+ 8 [GET,/css/sb-admin-2.min.css,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [170737]
+13 [13]
+14 [-]
+15 [http://jeehyun-main.link/]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [UpNsffa3TA1bATaiSW5y2djUDMyM6lQKPtWJ7UfIIqLfm96fLiGljXdPmD7mPb988hlTAYY9ENk=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:25+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [CTANVERQB7MN0CM6]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/jquery/jquery.min.js]
+ 8 [GET,/vendor/jquery/jquery.min.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [89501]
+12 [89501]
+13 [74]
+14 [73]
+15 [http://jeehyun-main.link/]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [ThURubkG9V732Aa9iJR+CmXsNl+dMKtO/ojhbQp0Uvsr8AMtTEIy/QCeADClGfmvsJsFT08eEqI=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:25+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [CTAQ9PZGMV2598VD]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [login.html]
+ 8 [GET,/,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [4705]
+13 [24]
+14 [-]
+15 [-]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [TUTCFO5oBRWej/4gTKRZX28e2V0J/mVv8q93YE5bEN+Y5eRYTDjHuewAKPMgBtf5HP6syXBdUMA=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWEATEN369GM2HBA]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [img/undraw_posting_photo.svg]
+ 8 [GET,/img/undraw_posting_photo.svg,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [37285]
+12 [37285]
+13 [37]
+14 [36]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [rSN8qouKeH7Q7JRo8vFnes+ldFY9uxkkWsGAVRR1PsrJWVvjikd97h5GrVBu1N5YC19B2sr2Fj8=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWEE0047H57DQKGX]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/chart.js/Chart.min.js]
+ 8 [GET,/vendor/chart.js/Chart.min.js,HTTP/1.1]
+ 9 [304]
+10 [-]
+11 [-]
+12 [173077]
+13 [21]
+14 [-]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [SMhr/WjifyTR3p05qetVOJpoAXxFcGLIBP3dq6FUlPGPk/RBwTQA9+XeAjb6hukIzwRkgDTxY7w=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:48+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [J5CZ9JSBHK95ZVAS]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [js/demo/datatables-demo.js]
+ 8 [GET,/js/demo/datatables-demo.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [103]
+12 [103]
+13 [26]
+14 [25]
+15 [http://jeehyun-main.link/tables.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [koven3G+FVuI31/tHKZHfTBeopBDgWs0ZQKYEGVFWPLbnQRYjFfcIg0zpovofkmv6v1K6o8LIpI=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:16+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [NK8E4NH3EA2AEJ7C]
+ 6 [REST.GET.OBJECT_LOCK_CONFIGURATION]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?object-lock=,HTTP/1.1]
+ 9 [404]
+10 [ObjectLockConfigurationNotFoundError]
+11 [352]
+12 [-]
+13 [22]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [ZLRVYFPfnqPRLAvkk6m/f/RciDbUB0XdWxqcCqFRO6TvyCdDEg2k0i1TAZp2H71hR3Fk5s1ulzQ=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:25+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [CTARXV4JFAQV4PWY]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/bootstrap/js/bootstrap.bundle.min.js]
+ 8 [GET,/vendor/bootstrap/js/bootstrap.bundle.min.js,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [84378]
+12 [84378]
+13 [107]
+14 [105]
+15 [http://jeehyun-main.link/]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [aCtLW6/9wzxRStRlS+t8WzUhcY/iqNkYtD+c1pLyzK67JGbXEPpuUGzicqYdlOjDCe5dazpI6L8=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWEAFW74W0KJWVP7]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [img/undraw_profile_2.svg]
+ 8 [GET,/img/undraw_profile_2.svg,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [2630]
+12 [2630]
+13 [54]
+14 [53]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [HNpeuODZQghq8r4I5zz/5Kk2J7DpKOotX4Im/n6Cv9S/ksQIN71LWoQiQfSJ8eRXMu8/p7R84gM=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:37+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [SWEEMS4RB3WJ0B2E]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [img/undraw_profile_1.svg]
+ 8 [GET,/img/undraw_profile_1.svg,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [2163]
+12 [2163]
+13 [45]
+14 [44]
+15 [http://jeehyun-main.link/index.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [Z9ipekqv49riRs/N5hB+84YO1y1qqbv3zQ3MHAO/HEU8vrESuxsgSfmTg1MYD/50TFgwca5udRk=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:15:48:48+0000]]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [J5CN77T7K93J51ZF]
+ 6 [WEBSITE.GET.OBJECT]
+ 7 [vendor/datatables/dataTables.bootstrap4.min.css]
+ 8 [GET,/vendor/datatables/dataTables.bootstrap4.min.css,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [5229]
+12 [5229]
+13 [58]
+14 [57]
+15 [http://jeehyun-main.link/tables.html]
+16 [Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36]
+17 [-]
+18 [JIPvQqW1phSQUdCqHyWinowj6cH6zGYzSt05sLezqai4z/yZoASphrETaiu0JhPGmEHdFk5bCf4=]
+19 [-]
+20 [-]
+21 [-]
+22 [jeehyun-main.link]
+23 [-]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:20:47+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [ZYR0VB4FCBC2XKDP]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-20-47-94663F170A504F2B]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-20-47-94663F170A504F2B,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [478]
+13 [52]
+14 [24]
+15 [-]
+16 [-]
+17 [-]
+18 [dak/r38qrtmKiCgvqVStfJRB9S43FwcZPqUPkZeOFst2ypcJevOOQJZ1TGthamScsWQLDl24gKY=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:26:05+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [XQR6ASHHJS663D0N]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-26-05-E4DA695480F6B647]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-26-05-E4DA695480F6B647,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [461]
+13 [74]
+14 [30]
+15 [-]
+16 [-]
+17 [-]
+18 [1PwuSSK4HrlswyENV/7OwVH3QDgZzOgOYmOdoKLBbUVhyLajbG7BFziSarZ/Xx3UQSZQwuDzp30=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:23:03+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [T9FZHHDYP9929DP5]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-23-03-82F8354907C6438B]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-23-03-82F8354907C6438B,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [466]
+13 [125]
+14 [17]
+15 [-]
+16 [-]
+17 [-]
+18 [8+b2+av+3/WCqrhFSlIgEYIFsQ8tvZdTcHaExL978hZ9RFHnpwrajC7DBWKg7G2s4Xj8uTVXTGVD0EYa3JtCvg==]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:08:36+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [7QSK9JNBABFWJN9R]
+ 6 [REST.GET.VERSIONING]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?versioning=,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [113]
+12 [-]
+13 [26]
+14 [-]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [YNIfRF3IM3uZdYOEAoABDBOFiQCOyxRMcq/SLtAdwv4j9UlRcygc5gp4xojd3lTXRIS3VV0Q8zc=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:47:24+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [CSAXTGFZ16JVEHHT]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-47-24-065BA63967F9375A]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-47-24-065BA63967F9375A,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [2131]
+13 [61]
+14 [31]
+15 [-]
+16 [-]
+17 [-]
+18 [2lMnesOqAvmpwAX2hX2g7OLwlTVUyqKkiX3qFjLRUDWjtuMGeKU/7uzabOV9PYN46teisZLwXoc=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:27:54+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [V2Z1BE7PXCC3C6CW]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-27-54-5DCE084FA6B17369]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-27-54-5DCE084FA6B17369,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [471]
+13 [52]
+14 [22]
+15 [-]
+16 [-]
+17 [-]
+18 [JYgrhk3G7i7Yzp4DDW881RYFJKnJNaQJPpWpLoOyMIFgvM+Rl40yVT3DoqpG2waT1ci6YYQgzOQ=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:08:28+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [Q83G9E5AFFK0D7QP]
+ 6 [REST.HEAD.BUCKET]
+ 7 [-]
+ 8 [HEAD,/jeehyun-main.link,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [-]
+13 [26]
+14 [25]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [jSAjsU5B1gn6GlNkktgjC+gC7S2VL35267OUlqqxYf7itbPU8uSnoSGtg6GRvawPzym41Y+wlSE=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:08:36+0000]]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [7QSJK4TR5B1B2BKB]
+ 6 [REST.GET.BUCKET]
+ 7 [-]
+ 8 [GET,/jeehyun-main.link?list-type=2&encoding-type=url&max-keys=1000&fetch-owner=true&delimiter=%2F&prefix=access_log%2F,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [808]
+12 [-]
+13 [60]
+14 [58]
+15 [-]
+16 [S3Console/0.4,cfg/retry-mode/legacy]
+17 [-]
+18 [KoeR+B2a6RBnqzuu20j/ydw2EPXXdppSJnt9ij75M5cnq5vm+Dn2UnAQqypE1+BBEjhOqPalYQ0=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:30:33+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [FFY2D6M9GWWK9H87]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-30-33-4D2136E7ED3E4EC2]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-30-33-4D2136E7ED3E4EC2,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [484]
+13 [70]
+14 [18]
+15 [-]
+16 [-]
+17 [-]
+18 [IX+fYuQQia/UIhjeUezsue0B5xJRiz5zCHNVhr/wCY9a3191HH+5IGwyGq7iZMXXuFT+Yf+qH9Y=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:32:43+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [81WSFF9K5WMBMCMS]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-32-43-B9BFDCB02B53CA86]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-32-43-B9BFDCB02B53CA86,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [466]
+13 [55]
+14 [22]
+15 [-]
+16 [-]
+17 [-]
+18 [vCLKryNuHcN190w/PCqDxlA/70SWC94nblyc0sm2Crbq/FOHAD6biz8I73NH75u9lserGdj3NNo=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+ 0 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 1 [jeehyun-main.link]
+ 2 [[20/May/2023:16:16:10+0000]]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [XV57AKSMP4BMTE5D]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/normal_case/2023-05-20-16-16-10-5D4868A82F7F6A9B]
+ 8 [PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-16-10-5D4868A82F7F6A9B,HTTP/1.1]
+ 9 [200]
+10 [-]
+11 [-]
+12 [1434]
+13 [63]
+14 [16]
+15 [-]
+16 [-]
+17 [-]
+18 [FCvWoszSJwOLp3UHofFyIu61VWKIJT464YMLS/4dbviE1Dr/YJ+K80Ly9ai2c7SNoyAZmmMSuZs=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+-------profile----------
+0 Bucket Owner 1 different values
+   b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71 56
+
+1 Bucket 1 different values
+   jeehyun-main.link 56
+
+2 Time 25 different values
+   [20/May/2023:15:48:48+0000] 5
+   [20/May/2023:15:48:16+0000] 9
+   [20/May/2023:15:48:17+0000] 3
+   [20/May/2023:15:48:25+0000] 7
+   [20/May/2023:15:48:26+0000] 1
+   [20/May/2023:15:48:34+0000] 1
+   [20/May/2023:15:48:36+0000] 1
+   [20/May/2023:15:48:37+0000] 9
+   [20/May/2023:15:48:38+0000] 1
+   [20/May/2023:15:48:41+0000] 1
+   [20/May/2023:15:48:42+0000] 1
+   [20/May/2023:15:48:43+0000] 1
+   [20/May/2023:15:48:44+0000] 2
+   [20/May/2023:15:48:45+0000] 1
+   [20/May/2023:15:48:46+0000] 2
+   [20/May/2023:16:20:47+0000] 1
+   [20/May/2023:16:26:05+0000] 1
+   [20/May/2023:16:23:03+0000] 1
+   [20/May/2023:16:08:36+0000] 2
+   [20/May/2023:16:47:24+0000] 1
+   [20/May/2023:16:27:54+0000] 1
+   [20/May/2023:16:08:28+0000] 1
+   [20/May/2023:16:30:33+0000] 1
+   [20/May/2023:16:32:43+0000] 1
+   [20/May/2023:16:16:10+0000] 1
+
+3 Remote IP 2 different values
+   72.198.67.233 48
+   - 8
+
+4 Requester 3 different values
+   - 33
+   arn:aws:iam::179704931439:user/dhwlgus3456 15
+   svc:s3.amazonaws.com 8
+
+5 Request ID 56 different values
+   J5CZXE4KTQJ9NEP3 1
+   NK89BHYR57ETB81E 1
+   075MKCS20SFH2Z9R 1
+   075TA44R87MV4GRM 1
+   075V28205NCYDB60 1
+   CTAG0J1FJBEBZKZP 1
+   CTANWCJ3GKY4A7GM 1
+   CTAV5A9S7X2SCKC6 1
+   N02ERBJJHFA1GRSP 1
+   RSTX3JBT7ND37A1J 1
+   WJ2TVTPW2PXR6ZJX 1
+   SWE194E2TDE2F8NZ 1
+   SWE733DYMCSM6N2S 1
+   QZM9NSH7CKZCT4RS 1
+   40Y4N60A8DQKQ3TD 1
+   YVD46F5V61S6YS3V 1
+   WZ1R33E09EBPMHAN 1
+   W1F0GK7EB2GVFAMW 1
+   W1FFAA5106NHXHGH 1
+   1TY6J6J8EPE8WZ4R 1
+   9E8H53G3RD6JVQRD 1
+   9E8HDQWMF487XXJN 1
+   J5CGKFF5S3YNGQ3M 1
+   J5CN5ZFDSSE35BFK 1
+   NK89X21Q65WR7RFM 1
+   SWE5PQG7K7HHMD15 1
+   SWE85QD0R4CXFY7M 1
+   SWEB5BVR08GEPN2P 1
+   NK8BSCVYDAG6G0NJ 1
+   NK8EDM547FRQ2WWJ 1
+   NK8A15Q8AWZD6PXN 1
+   NK84ZETP6NNG5NEV 1
+   NK8EHX1ZY6761CMK 1
+   NK88ZFRSJQAZ28YD 1
+   CTAMXYWH2CZFWG4Y 1
+   CTANVERQB7MN0CM6 1
+   CTAQ9PZGMV2598VD 1
+   SWEATEN369GM2HBA 1
+   SWEE0047H57DQKGX 1
+   J5CZ9JSBHK95ZVAS 1
+   NK8E4NH3EA2AEJ7C 1
+   CTARXV4JFAQV4PWY 1
+   SWEAFW74W0KJWVP7 1
+   SWEEMS4RB3WJ0B2E 1
+   J5CN77T7K93J51ZF 1
+   ZYR0VB4FCBC2XKDP 1
+   XQR6ASHHJS663D0N 1
+   T9FZHHDYP9929DP5 1
+   7QSK9JNBABFWJN9R 1
+   CSAXTGFZ16JVEHHT 1
+   V2Z1BE7PXCC3C6CW 1
+   Q83G9E5AFFK0D7QP 1
+   7QSJK4TR5B1B2BKB 1
+   FFY2D6M9GWWK9H87 1
+   81WSFF9K5WMBMCMS 1
+   XV57AKSMP4BMTE5D 1
+
+6 Operation 15 different values
+   WEBSITE.GET.OBJECT 33
+   REST.GET.LOGGING_STATUS 1
+   REST.GET.POLICY_STATUS 1
+   REST.GET.ACL 1
+   REST.GET.PUBLIC_ACCESS_BLOCK 1
+   REST.HEAD.BUCKET 2
+   REST.GET.ENCRYPTION 1
+   REST.GET.VERSIONING 2
+   REST.GET.WEBSITE 1
+   REST.GET.TAGGING 1
+   REST.GET.INTELLIGENT_TIERING 1
+   REST.GET.ACCELERATE 1
+   REST.GET.OBJECT_LOCK_CONFIGURATION 1
+   REST.PUT.OBJECT 8
+   REST.GET.BUCKET 1
+
+7 Key 41 different values
+   vendor/datatables/dataTables.bootstrap4.min.js 1
+   - 15
+   vendor/fontawesome-free/css/all.min.css 1
+   vendor/jquery-easing/jquery.easing.min.js 1
+   js/sb-admin-2.min.js 1
+   vendor/fontawesome-free/webfonts/fa-brands-400.woff2 1
+   register.html 1
+   login.html 2
+   img/undraw_rocket.svg 1
+   index.html 1
+   img/undraw_profile_3.svg 1
+   buttons.html 1
+   cards.html 1
+   utilities-color.html 1
+   utilities-animation.html 1
+   utilities-border.html 1
+   utilities-other.html 1
+   charts.html 1
+   js/demo/chart-bar-demo.js 1
+   vendor/datatables/jquery.dataTables.min.js 1
+   tables.html 1
+   js/demo/chart-pie-demo.js 1
+   vendor/fontawesome-free/webfonts/fa-solid-900.woff2 1
+   js/demo/chart-area-demo.js 1
+   css/sb-admin-2.min.css 1
+   vendor/jquery/jquery.min.js 1
+   img/undraw_posting_photo.svg 1
+   vendor/chart.js/Chart.min.js 1
+   js/demo/datatables-demo.js 1
+   vendor/bootstrap/js/bootstrap.bundle.min.js 1
+   img/undraw_profile_2.svg 1
+   img/undraw_profile_1.svg 1
+   vendor/datatables/dataTables.bootstrap4.min.css 1
+   access_log/normal_case/2023-05-20-16-20-47-94663F170A504F2B 1
+   access_log/normal_case/2023-05-20-16-26-05-E4DA695480F6B647 1
+   access_log/normal_case/2023-05-20-16-23-03-82F8354907C6438B 1
+   access_log/normal_case/2023-05-20-16-47-24-065BA63967F9375A 1
+   access_log/normal_case/2023-05-20-16-27-54-5DCE084FA6B17369 1
+   access_log/normal_case/2023-05-20-16-30-33-4D2136E7ED3E4EC2 1
+   access_log/normal_case/2023-05-20-16-32-43-B9BFDCB02B53CA86 1
+   access_log/normal_case/2023-05-20-16-16-10-5D4868A82F7F6A9B 1
+
+8 Request-URI 54 different values
+   GET,/vendor/datatables/dataTables.bootstrap4.min.js,HTTP/1.1 1
+   GET,/jeehyun-main.link?logging=,HTTP/1.1 1
+   GET,/?policyStatus,HTTP/1.1 1
+   GET,/?acl,HTTP/1.1 1
+   GET,/?publicAccessBlock,HTTP/1.1 1
+   GET,/vendor/fontawesome-free/css/all.min.css,HTTP/1.1 1
+   GET,/vendor/jquery-easing/jquery.easing.min.js,HTTP/1.1 1
+   GET,/js/sb-admin-2.min.js,HTTP/1.1 1
+   GET,/vendor/fontawesome-free/webfonts/fa-brands-400.woff2,HTTP/1.1 1
+   GET,/register.html,HTTP/1.1 1
+   GET,/login.html,HTTP/1.1 1
+   GET,/img/undraw_rocket.svg,HTTP/1.1 1
+   GET,/index.html,HTTP/1.1 1
+   GET,/img/undraw_profile_3.svg,HTTP/1.1 1
+   GET,/buttons.html,HTTP/1.1 1
+   GET,/cards.html,HTTP/1.1 1
+   GET,/utilities-color.html,HTTP/1.1 1
+   GET,/utilities-animation.html,HTTP/1.1 1
+   GET,/utilities-border.html,HTTP/1.1 1
+   GET,/utilities-other.html,HTTP/1.1 1
+   GET,/charts.html,HTTP/1.1 1
+   GET,/js/demo/chart-bar-demo.js,HTTP/1.1 1
+   GET,/vendor/datatables/jquery.dataTables.min.js,HTTP/1.1 1
+   GET,/tables.html,HTTP/1.1 1
+   HEAD,/jeehyun-main.link,HTTP/1.1 2
+   GET,/js/demo/chart-pie-demo.js,HTTP/1.1 1
+   GET,/vendor/fontawesome-free/webfonts/fa-solid-900.woff2,HTTP/1.1 1
+   GET,/js/demo/chart-area-demo.js,HTTP/1.1 1
+   GET,/jeehyun-main.link?encryption=,HTTP/1.1 1
+   GET,/jeehyun-main.link?versioning=,HTTP/1.1 2
+   GET,/jeehyun-main.link?website=,HTTP/1.1 1
+   GET,/jeehyun-main.link?tagging=,HTTP/1.1 1
+   GET,/jeehyun-main.link?intelligent-tiering=,HTTP/1.1 1
+   GET,/jeehyun-main.link?accelerate=,HTTP/1.1 1
+   GET,/css/sb-admin-2.min.css,HTTP/1.1 1
+   GET,/vendor/jquery/jquery.min.js,HTTP/1.1 1
+   GET,/,HTTP/1.1 1
+   GET,/img/undraw_posting_photo.svg,HTTP/1.1 1
+   GET,/vendor/chart.js/Chart.min.js,HTTP/1.1 1
+   GET,/js/demo/datatables-demo.js,HTTP/1.1 1
+   GET,/jeehyun-main.link?object-lock=,HTTP/1.1 1
+   GET,/vendor/bootstrap/js/bootstrap.bundle.min.js,HTTP/1.1 1
+   GET,/img/undraw_profile_2.svg,HTTP/1.1 1
+   GET,/img/undraw_profile_1.svg,HTTP/1.1 1
+   GET,/vendor/datatables/dataTables.bootstrap4.min.css,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-20-47-94663F170A504F2B,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-26-05-E4DA695480F6B647,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-23-03-82F8354907C6438B,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-47-24-065BA63967F9375A,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-27-54-5DCE084FA6B17369,HTTP/1.1 1
+   GET,/jeehyun-main.link?list-type=2&encoding-type=url&max-keys=1000&fetch-owner=true&delimiter=%2F&prefix=access_log%2F,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-30-33-4D2136E7ED3E4EC2,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-32-43-B9BFDCB02B53CA86,HTTP/1.1 1
+   PUT,/jeehyun-main.link/access_log/normal_case/2023-05-20-16-16-10-5D4868A82F7F6A9B,HTTP/1.1 1
+
+9 HTTP status 3 different values
+   200 44
+   304 10
+   404 2
+
+10 Error Code 3 different values
+   - 54
+   NoSuchTagSet 1
+   ObjectLockConfigurationNotFoundError 1
+
+11 Bytes Sent 35 different values
+   2098 1
+   261 1
+   141 1
+   590 1
+   330 1
+   - 20
+   2532 1
+   1265 1
+   4730 1
+   3147 1
+   2733 1
+   32956 1
+   32247 1
+   27291 1
+   28641 1
+   26234 1
+   26674 1
+   25285 1
+   3189 1
+   83602 1
+   51345 1
+   320 1
+   113 3
+   240 1
+   297 1
+   169 1
+   89501 1
+   37285 1
+   103 1
+   352 1
+   84378 1
+   2630 1
+   2163 1
+   5229 1
+   808 1
+
+12 Object Size 40 different values
+   2098 1
+   - 15
+   59344 1
+   2532 1
+   1265 1
+   76764 1
+   4730 1
+   4705 2
+   3147 1
+   42779 1
+   2733 1
+   32956 1
+   32247 1
+   27291 1
+   28641 1
+   26234 1
+   26674 1
+   25285 1
+   3189 1
+   83602 1
+   51345 1
+   1057 1
+   78196 1
+   3569 1
+   170737 1
+   89501 1
+   37285 1
+   173077 1
+   103 1
+   84378 1
+   2630 1
+   2163 1
+   5229 1
+   478 1
+   461 1
+   466 2
+   2131 1
+   471 1
+   484 1
+   1434 1
+
+13 Total Time 42 different values
+   50 1
+   30 1
+   7 2
+   14 1
+   28 2
+   25 1
+   75 1
+   77 1
+   11 2
+   36 2
+   52 3
+   9 1
+   42 1
+   31 1
+   46 2
+   47 1
+   62 1
+   63 2
+   32 1
+   80 1
+   39 1
+   27 1
+   10 1
+   26 5
+   40 2
+   29 1
+   86 1
+   13 1
+   74 2
+   24 1
+   37 1
+   21 1
+   22 1
+   107 1
+   54 1
+   45 1
+   58 1
+   125 1
+   61 1
+   60 1
+   70 1
+   55 1
+
+14 Turn-Around Time 29 different values
+   49 1
+   - 21
+   74 1
+   76 1
+   35 2
+   52 1
+   41 1
+   30 2
+   45 2
+   46 1
+   61 1
+   62 1
+   31 2
+   79 1
+   39 1
+   26 1
+   25 3
+   73 1
+   36 1
+   105 1
+   53 1
+   44 1
+   57 1
+   24 1
+   17 1
+   22 2
+   58 1
+   18 1
+   16 1
+
+15 Referer 14 different values
+   http://jeehyun-main.link/tables.html 4
+   - 24
+   http://jeehyun-main.link/ 7
+   http://jeehyun-main.link/vendor/fontawesome-free/css/all.min.css 2
+   http://jeehyun-main.link/register.html 1
+   http://jeehyun-main.link/index.html 9
+   http://jeehyun-main.link/login.html 1
+   http://jeehyun-main.link/buttons.html 1
+   http://jeehyun-main.link/cards.html 1
+   http://jeehyun-main.link/utilities-border.html 1
+   http://jeehyun-main.link/utilities-color.html 1
+   http://jeehyun-main.link/utilities-animation.html 1
+   http://jeehyun-main.link/utilities-other.html 1
+   http://jeehyun-main.link/charts.html 2
+
+16 User-Agent 3 different values
+   Mozilla/5.0,(Windows,NT,10.0;,Win64;,x64),AppleWebKit/537.36,(KHTML,,like,Gecko),Chrome/113.0.0.0,Safari/537.36 33
+   S3Console/0.4,cfg/retry-mode/legacy 15
+   - 8
+
+17 Version Id 1 different values
+   - 56
+
+18 Host Id 56 different values
+   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 1
+
+19 Signature Version 2 different values
+   - 33
+   SigV4 23
+
+20 Cipher Suite 2 different values
+   - 33
+   ECDHE-RSA-AES128-GCM-SHA256 23
+
+21 Authentication Type 2 different values
+   - 33
+   AuthHeader 23
+
+22 Host Header 4 different values
+   jeehyun-main.link 33
+   s3.amazonaws.com 12
+   jeehyun-main.link.s3.us-east-1.amazonaws.com 3
+   s3.us-east-1.amazonaws.com 8
+
+23 TLS version 2 different values
+   - 33
+   TLSv1.2 23
+
+24 Access Point ARN 1 different values
+   - 56
+
+25 aclRequired 1 different values
+   - 56
+

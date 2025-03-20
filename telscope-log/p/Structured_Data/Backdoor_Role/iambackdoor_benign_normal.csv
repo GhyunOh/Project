@@ -1,0 +1,12 @@
+eventVersion,eventTime,eventSource,eventName,awsRegion,sourceIPAddress,userAgent,requestID,eventID,readOnly,eventType,managementEvent,recipientAccountId,eventCategory,sessionCredentialFromConsole,userIdentity.type,userIdentity.principalId,userIdentity.arn,userIdentity.accountId,userIdentity.accessKeyId,userIdentity.userName,userIdentity.sessionContext.attributes.creationDate,userIdentity.sessionContext.attributes.mfaAuthenticated,requestParameters.roleName,requestParameters.description,requestParameters.assumeRolePolicyDocument,responseElements.role.assumeRolePolicyDocument,responseElements.role.arn,responseElements.role.roleId,responseElements.role.createDate,responseElements.role.roleName,responseElements.role.path,errorCode,errorMessage,responseElements,requestParameters.policyDocument,tlsDetails.tlsVersion,tlsDetails.cipherSuite,tlsDetails.clientProvidedHostHeader
+1.08,2023-06-02T01:10:04Z,iam.amazonaws.com,CreateRole,us-east-1,24.253.242.77,AWS Internal,e01eaecc-fcf2-4109-aecf-e08ffba95cdf,eb5e50ca-607c-4de5-bd50-c24b527d97f6,False,AwsApiCall,True,602829151828,Management,true,IAMUser,AIDAYYW3K3ZKG4VZCGTG5,arn:aws:iam::602829151828:user/Eris,602829151828,ASIAYYW3K3ZKKY4DVBFA,Eris,2023-06-01T19:08:38Z,false,trial-role,Allows EC2 instances to call AWS services on your behalf.,"{""Version"":""2012-10-17"",""Statement"":[{""Effect"":""Allow"",""Action"":[""sts:AssumeRole""],""Principal"":{""Service"":[""ec2.amazonaws.com""]}}]}",%7B%22Version%22%3A%222012-10-17%22%2C%22Statement%22%3A%5B%7B%22Effect%22%3A%22Allow%22%2C%22Action%22%3A%5B%22sts%3AAssumeRole%22%5D%2C%22Principal%22%3A%7B%22Service%22%3A%5B%22ec2.amazonaws.com%22%5D%7D%7D%5D%7D,arn:aws:iam::602829151828:role/trial-role,AROAYYW3K3ZKADHZI3KGW,"Jun 2, 2023 1:10:04 AM",trial-role,/,,,,,,,
+1.08,2023-06-02T01:18:49Z,iam.amazonaws.com,UpdateAssumeRolePolicy,us-east-1,24.253.242.77,aws-cli/2.11.12 Python/3.11.2 Windows/10 exe/AMD64 prompt/off command/iam.update-assume-role-policy,d77c154f-6036-46d3-bc5c-5b70ef82ebcf,1fa8ea7e-ff7e-4bf4-b7aa-7a652c1a36de,False,AwsApiCall,True,602829151828,Management,,IAMUser,AIDAYYW3K3ZKG4VZCGTG5,arn:aws:iam::602829151828:user/Eris,602829151828,AKIAYYW3K3ZKJJRD2BG7,Eris,,,trial-role,,,,,,,,,MalformedPolicyDocumentException,Has prohibited field Resource,,"{
+    ""Version"": ""2012-10-17"",
+    ""Statement"": [
+        {
+            ""Effect"": ""Allow"",
+            ""Action"": ""*"",
+            ""Resource"": ""*""
+        }
+    ]
+}",TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,iam.amazonaws.com

@@ -1,0 +1,62 @@
+eventVersion,eventDate,eventTimeonDay,Combined
+1.08,2023-07-15,20:38:19,"signin.amazonaws.com,ConsoleLogin,-,24.253.242.77,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36,,-,False,AwsConsoleSignIn,True,179705000000.0,Management,-,IAMUser,AIDASTVZ7URXQQI3FNCKT,arn:aws:iam::179704931439:user/mprerana,179705000000.0,mprerana,Success,https://console.aws.amazon.com/console/home?hashArgs=%23&isauthcode=true&nc2=h_ct&src=header-signin&state=hashArgsFromTB_us-east-2_fc5a0ab50d4e6d77,No,No,TLSv1.3,TLS_AES_128_GCM_SHA256,us-east-1.signin.aws.amazon.com"
+1.08,2023-07-15,19:45:44,"rolesanywhere.amazonaws.com,CreateTrustAnchor,-,24.253.242.77,stratus-red-team_fb4fd5ce-e34f-410c-ae9d-cd394e2a4b67,True,malicious-rolesanywhere-trust-anchor,-----BEGIN CERTIFICATE-----
+MIIE3zCCAsegAwIBAgIJAOZLUn/n7YvYMA0GCSqGSIb3DQEBCwUAMA0xCzAJBgNV
+BAYTAkVTMB4XDTIyMDcxMDIxMjgxOVoXDTMyMDcwNzIxMjgxOVowDTELMAkGA1UE
+BhMCRVMwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDb0ga7LzegYNXV
+oBTY7ByNCtgqAEoZVQAEQAxpWzK4wL4V+TKRRGiP9KQSbMsU35dBuxzg2Ih62dwr
+h6S7vYX4eU8YpGcutrWekzAl+G4GwfbHcwJYt9ALrneFUUWEedYA6BTVG0b+cwIL
+OkVJSlB/4bAVFocwafdnFi3CLsIhXF/Yn90mnug+qsXSWPMZmTXaykiO9+AWV/pO
+/JNS2WLPp4EKUT3CGm12TxBMHG0sWG0xopuj4KXTsyJFELDevSo92ldqyCIJFgG8
+wBmbETxx9TlTPEU6hVkG4MLE2ekkEQK8WVLpZvTGFRrauawMhAzfFV9ZcgIsURy7
+v2/FlYL7OedesimPfGD8M1dkm4yK2dVvUf/HyEL1IB1+3NtAOoifZ5jBBJKaybF0
+/W85asZWVg+yKokFhmQRzu4BFnPhsoTwau+WuySYokbWIEzdW8FljWpwiPlvnqy+
+VJVKdZuzWx12yLzK5srQ4Qcb/tQqkooVASM0PH5ts3PYlf5hRgxqKgCR5lXODxoA
+0aylk6+wC2oBLhvufmwObsOMcxMbPv+EQvzYChL1MRLvEPAmATiE64ZLn8IOu9MG
+9GRC6D/NkLy9LdsPWfzx+W1itrWR3ft/uD/HXILAVc54HejbZGsPsLe7qITDNc7n
+D5zM+orgu67zgRaBOm1kPZbr/vHUFQIDAQABo0IwQDAOBgNVHQ8BAf8EBAMCAYYw
+HQYDVR0OBBYEFJNT8WprixUiturSY9GAHXmAcP/RMA8GA1UdEwEB/wQFMAMBAf8w
+DQYJKoZIhvcNAQELBQADggIBAJ1clg4GzHuMxTmpz+riL2klUZEMpJPvy682c0iH
+NlG0f30cNHdSlnhCnx78h3n1xotSM8zZf6+LepCZWCzho5p3Fep7sDumQ+chgdIp
+NApgcGX7tpx+TVjrrwkpxioMSfVFHJ7RMSewumnOXw4NsUQmGJdku8FUR7BWRRiY
+fk0MoQ9nuwjt+RcSz/IKdFTzjI70nPikjSSd0L/ovWk5aXgLcnZpgzv6r4HbafJU
+7dEnP+paZugEUts+SNXr3vkSuiLod7iiOcmQFvtRDFUAn4QonoN/6lDDOGLYsy0J
+rv9GI+Y5VYt6JRGNJq/yCBV1KhhjaWll0kl/UNxIr+hBQ5Vul9SiR3jbbNlRh1PE
+MPEAzhcqG8i3oZwwl62pjqPja+EvSuoPHf0tJ1rmjWmBt3irShSnuFN69+E4h20d
+2cHVyF4GqF2VdNPYa0lh0cSIsNCJJ5+eyXRHKPcUCKI7pDYdbKZt+8ILlZC5PsSK
+C0XsWIzqSG69Uqkm8c0P07NPmcAnGC3O92uhOrb4ytC2KyHVrNa+Bs6VYlYr3ayq
+5AVfJZGuSxldlyM0N/peEKqz9vok4FoBxxSZGDi9ZDIMjLTpypHOMXi0d8YcClFO
+lmRijJoUF95T+svxE60fdndPlleDKC8OnxvcIbS4OSK0ZqK1SFgTNaIgOniUSY6Q
+V0KM
+-----END CERTIFICATE-----,CERTIFICATE_BUNDLE,[{'key': 'HIDDEN_DUE_TO_SECURITY_REASONS', 'value': 'HIDDEN_DUE_TO_SECURITY_REASONS'}],-,False,AwsApiCall,True,179705000000.0,Management,-,IAMUser,AIDASTVZ7URXQQI3FNCKT,arn:aws:iam::179704931439:user/mprerana,179705000000.0,mprerana,AKIASTVZ7URXXSGSJ373,2023-07-15T19:45:44.394841Z,True,malicious-rolesanywhere-trust-anchor,[{'channel': 'ALL', 'configuredBy': 'rolesanywhere.amazonaws.com', 'enabled': True, 'event': 'CA_CERTIFICATE_EXPIRY', 'threshold': 45}, {'channel': 'ALL', 'configuredBy': 'rolesanywhere.amazonaws.com', 'enabled': True, 'event': 'END_ENTITY_CERTIFICATE_EXPIRY', 'threshold': 45}],-----BEGIN CERTIFICATE-----
+MIIE3zCCAsegAwIBAgIJAOZLUn/n7YvYMA0GCSqGSIb3DQEBCwUAMA0xCzAJBgNV
+BAYTAkVTMB4XDTIyMDcxMDIxMjgxOVoXDTMyMDcwNzIxMjgxOVowDTELMAkGA1UE
+BhMCRVMwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDb0ga7LzegYNXV
+oBTY7ByNCtgqAEoZVQAEQAxpWzK4wL4V+TKRRGiP9KQSbMsU35dBuxzg2Ih62dwr
+h6S7vYX4eU8YpGcutrWekzAl+G4GwfbHcwJYt9ALrneFUUWEedYA6BTVG0b+cwIL
+OkVJSlB/4bAVFocwafdnFi3CLsIhXF/Yn90mnug+qsXSWPMZmTXaykiO9+AWV/pO
+/JNS2WLPp4EKUT3CGm12TxBMHG0sWG0xopuj4KXTsyJFELDevSo92ldqyCIJFgG8
+wBmbETxx9TlTPEU6hVkG4MLE2ekkEQK8WVLpZvTGFRrauawMhAzfFV9ZcgIsURy7
+v2/FlYL7OedesimPfGD8M1dkm4yK2dVvUf/HyEL1IB1+3NtAOoifZ5jBBJKaybF0
+/W85asZWVg+yKokFhmQRzu4BFnPhsoTwau+WuySYokbWIEzdW8FljWpwiPlvnqy+
+VJVKdZuzWx12yLzK5srQ4Qcb/tQqkooVASM0PH5ts3PYlf5hRgxqKgCR5lXODxoA
+0aylk6+wC2oBLhvufmwObsOMcxMbPv+EQvzYChL1MRLvEPAmATiE64ZLn8IOu9MG
+9GRC6D/NkLy9LdsPWfzx+W1itrWR3ft/uD/HXILAVc54HejbZGsPsLe7qITDNc7n
+D5zM+orgu67zgRaBOm1kPZbr/vHUFQIDAQABo0IwQDAOBgNVHQ8BAf8EBAMCAYYw
+HQYDVR0OBBYEFJNT8WprixUiturSY9GAHXmAcP/RMA8GA1UdEwEB/wQFMAMBAf8w
+DQYJKoZIhvcNAQELBQADggIBAJ1clg4GzHuMxTmpz+riL2klUZEMpJPvy682c0iH
+NlG0f30cNHdSlnhCnx78h3n1xotSM8zZf6+LepCZWCzho5p3Fep7sDumQ+chgdIp
+NApgcGX7tpx+TVjrrwkpxioMSfVFHJ7RMSewumnOXw4NsUQmGJdku8FUR7BWRRiY
+fk0MoQ9nuwjt+RcSz/IKdFTzjI70nPikjSSd0L/ovWk5aXgLcnZpgzv6r4HbafJU
+7dEnP+paZugEUts+SNXr3vkSuiLod7iiOcmQFvtRDFUAn4QonoN/6lDDOGLYsy0J
+rv9GI+Y5VYt6JRGNJq/yCBV1KhhjaWll0kl/UNxIr+hBQ5Vul9SiR3jbbNlRh1PE
+MPEAzhcqG8i3oZwwl62pjqPja+EvSuoPHf0tJ1rmjWmBt3irShSnuFN69+E4h20d
+2cHVyF4GqF2VdNPYa0lh0cSIsNCJJ5+eyXRHKPcUCKI7pDYdbKZt+8ILlZC5PsSK
+C0XsWIzqSG69Uqkm8c0P07NPmcAnGC3O92uhOrb4ytC2KyHVrNa+Bs6VYlYr3ayq
+5AVfJZGuSxldlyM0N/peEKqz9vok4FoBxxSZGDi9ZDIMjLTpypHOMXi0d8YcClFO
+lmRijJoUF95T+svxE60fdndPlleDKC8OnxvcIbS4OSK0ZqK1SFgTNaIgOniUSY6Q
+V0KM
+-----END CERTIFICATE-----
+,CERTIFICATE_BUNDLE,arn:aws:rolesanywhere:us-east-1:179704931439:trust-anchor/4f16acdb-a915-4ebf-929e-41045bc92ec2,4f16acdb-a915-4ebf-929e-41045bc92ec2,2023-07-15T19:45:44.394841Z,,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,rolesanywhere.us-east-1.amazonaws.com"
+1.08,2023-07-15,19:45:44,"rolesanywhere.amazonaws.com,CreateProfile,-,24.253.242.77,stratus-red-team_fb4fd5ce-e34f-410c-ae9d-cd394e2a4b67,True,malicious-rolesanywhere-profile,[{'key': 'HIDDEN_DUE_TO_SECURITY_REASONS', 'value': 'HIDDEN_DUE_TO_SECURITY_REASONS'}],3600.0,['arn:aws:iam::179704931439:role/stratus-red-team-trust-anchor-role'],-,False,AwsApiCall,True,179705000000.0,Management,-,IAMUser,AIDASTVZ7URXQQI3FNCKT,arn:aws:iam::179704931439:user/mprerana,179705000000.0,mprerana,AKIASTVZ7URXXSGSJ373,2023-07-15T19:45:44.705460Z,arn:aws:iam::179704931439:user/mprerana,3600.0,True,malicious-rolesanywhere-profile,arn:aws:rolesanywhere:us-east-1:179704931439:profile/d10853ce-f3a0-41b0-8f99-52c1bef1b892,d10853ce-f3a0-41b0-8f99-52c1bef1b892,['arn:aws:iam::179704931439:role/stratus-red-team-trust-anchor-role'],2023-07-15T19:45:44.705460Z,,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,rolesanywhere.us-east-1.amazonaws.com"
+1.08,2023-07-15,19:44:14,"iam.amazonaws.com,CreateRole,-,24.253.242.77,APN/1.0 HashiCorp/1.0 Terraform/1.1.2 (+https://www.terraform.io) terraform-provider-aws/4.67.0 (+https://registry.terraform.io/providers/hashicorp/aws) aws-sdk-go/1.44.261 (go1.19.8; windows; amd64) stratus-red-team_aa3a656a-f1ad-44ac-852d-18daf1e536ee HashiCorp-terraform-exec/0.17.3,[{'key': 'StratusRedTeam', 'value': 'true'}],/,stratus-red-team-trust-anchor-role,{""Statement"":[{""Action"":[""sts:AssumeRole"",""sts:TagSession"",""sts:SetSourceIdentity""],""Effect"":""Allow"",""Principal"":{""Service"":""rolesanywhere.amazonaws.com""}}],""Version"":""2012-10-17""},3600.0,-,False,AwsApiCall,True,179705000000.0,Management,-,IAMUser,AIDASTVZ7URXQQI3FNCKT,arn:aws:iam::179704931439:user/mprerana,179705000000.0,mprerana,AKIASTVZ7URXXSGSJ373,/,stratus-red-team-trust-anchor-role,AROASTVZ7URX5LNYY7WAV,arn:aws:iam::179704931439:role/stratus-red-team-trust-anchor-role,Jul 15, 2023 7:44:14 PM,%7B%22Statement%22%3A%5B%7B%22Action%22%3A%5B%22sts%3AAssumeRole%22%2C%22sts%3ATagSession%22%2C%22sts%3ASetSourceIdentity%22%5D%2C%22Effect%22%3A%22Allow%22%2C%22Principal%22%3A%7B%22Service%22%3A%22rolesanywhere.amazonaws.com%22%7D%7D%5D%2C%22Version%22%3A%222012-10-17%22%7D,[{'key': 'StratusRedTeam', 'value': 'true'}],,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,iam.amazonaws.com"

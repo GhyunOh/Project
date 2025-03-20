@@ -1,0 +1,960 @@
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZDFNV1JTR1312C5	REST.GET.OBJECT_LOCK_CONFIGURATION	-	"GET,/jeehyun-main.link?object-lock=,HTTP/1.1"	404	ObjectLockConfigurationNotFoundError	352	-	32	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	mV26Vz519BkE5nIha/PRmpvnJlss9WrwKmqgxXH4DUYq0Blsi28JIkz2dIQQvwmaYrxEvc48TSs=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZDFNV1JTR1312C5]
+ 6 [REST.GET.OBJECT_LOCK_CONFIGURATION]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?object-lock=,HTTP/1.1"]
+ 9 [404]
+10 [ObjectLockConfigurationNotFoundError]
+11 [352]
+12 [-]
+13 [32]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [mV26Vz519BkE5nIha/PRmpvnJlss9WrwKmqgxXH4DUYq0Blsi28JIkz2dIQQvwmaYrxEvc48TSs=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZD0M7E3N1QC79KZ	REST.GET.LOGGING_STATUS	-	"GET,/jeehyun-main.link?logging=,HTTP/1.1"	200	-	261	-	30	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	WUgpCC9h0QOWPYDHbIJyamUC9BrIHleHeeiGggSoHkS2+51KMYcL23QkYSze64DyWoAacYbUEL4=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZD0M7E3N1QC79KZ]
+ 6 [REST.GET.LOGGING_STATUS]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?logging=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [261]
+12 [-]
+13 [30]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [WUgpCC9h0QOWPYDHbIJyamUC9BrIHleHeeiGggSoHkS2+51KMYcL23QkYSze64DyWoAacYbUEL4=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZD542RJ0GNYB6DD	REST.GET.WEBSITE	-	"GET,/jeehyun-main.link?website=,HTTP/1.1"	200	-	240	-	30	26	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	Zre6KRSrDirWwkD0tYIMEhJ4kAkPSjmBiKMNGOxNRT6Kfbya1bb12Ihcjzjsxjjj3ft6DNIc2N8=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZD542RJ0GNYB6DD]
+ 6 [REST.GET.WEBSITE]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?website=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [240]
+12 [-]
+13 [30]
+14 [26]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [Zre6KRSrDirWwkD0tYIMEhJ4kAkPSjmBiKMNGOxNRT6Kfbya1bb12Ihcjzjsxjjj3ft6DNIc2N8=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:40+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KYD9QR6PX2VF3SRT	REST.HEAD.BUCKET	-	"HEAD,/jeehyun-main.link,HTTP/1.1"	200	-	-	-	21	20	-	"Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"	-	iGFAVW1BwPHHYOvIBPGw9oazzHSJf0XIoXAZVUvK3Aci8uNzmrSnURyMPhDcCoulUMKP8pSRB/M=	SigV4	-	AuthHeader	s3.amazonaws.com	-	-	-
+
+ 0 [[20/May/2023:19:18:40+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KYD9QR6PX2VF3SRT]
+ 6 [REST.HEAD.BUCKET]
+ 7 [-]
+ 8 ["HEAD,/jeehyun-main.link,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [-]
+12 [-]
+13 [21]
+14 [20]
+15 [-]
+16 ["Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"]
+17 [-]
+18 [iGFAVW1BwPHHYOvIBPGw9oazzHSJf0XIoXAZVUvK3Aci8uNzmrSnURyMPhDcCoulUMKP8pSRB/M=]
+19 [SigV4]
+20 [-]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [-]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:41+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	AJY12ENZJMNMQGRC	REST.GET.BUCKET	-	"GET,/jeehyun-main.link?list-type=2&max-keys=0&encoding-type=url,HTTP/1.1"	200	-	277	-	5	4	-	"Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"	-	zwrqnAK5cZ/Vys+o7x9s912E7T29AR5YebLbQ5RPDQtpDCjfBl51US6HMkqUHBfKorSjhn2m0S0=	SigV4	-	AuthHeader	s3.amazonaws.com	-	-	-
+
+ 0 [[20/May/2023:19:18:41+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [AJY12ENZJMNMQGRC]
+ 6 [REST.GET.BUCKET]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?list-type=2&max-keys=0&encoding-type=url,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [277]
+12 [-]
+13 [5]
+14 [4]
+15 [-]
+16 ["Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"]
+17 [-]
+18 [zwrqnAK5cZ/Vys+o7x9s912E7T29AR5YebLbQ5RPDQtpDCjfBl51US6HMkqUHBfKorSjhn2m0S0=]
+19 [SigV4]
+20 [-]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [-]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:41+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	AJY4A4P6XEECTRGR	REST.GET.ACL	-	"GET,/jeehyun-main.link?acl,HTTP/1.1"	200	-	590	-	15	-	-	"Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"	-	mSnr+CrJh3KPOpWkqcBEX+OPJYTF1o+FVKt1o8hkpO48DIw7EknBifFYc5+z+uJnGoP2XS+rkXI=	SigV4	-	AuthHeader	s3.amazonaws.com	-	-	-
+
+ 0 [[20/May/2023:19:18:41+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [AJY4A4P6XEECTRGR]
+ 6 [REST.GET.ACL]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?acl,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [590]
+12 [-]
+13 [15]
+14 [-]
+15 [-]
+16 ["Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"]
+17 [-]
+18 [mSnr+CrJh3KPOpWkqcBEX+OPJYTF1o+FVKt1o8hkpO48DIw7EknBifFYc5+z+uJnGoP2XS+rkXI=]
+19 [SigV4]
+20 [-]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [-]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZD2QCMMDF5J1BXR	REST.GET.NOTIFICATION	-	"GET,/jeehyun-main.link?notification=,HTTP/1.1"	200	-	115	-	25	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	f6MxX1ReztI5Jxwk+cjTlUEVQTKKkHCaa/46o8p+vZJ4f65X1Xth1idfUNdCewGDIf7GLlCwpCc=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZD2QCMMDF5J1BXR]
+ 6 [REST.GET.NOTIFICATION]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?notification=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [115]
+12 [-]
+13 [25]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [f6MxX1ReztI5Jxwk+cjTlUEVQTKKkHCaa/46o8p+vZJ4f65X1Xth1idfUNdCewGDIf7GLlCwpCc=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZD7N52ABMF4QVR5	REST.GET.INTELLIGENT_TIERING	-	"GET,/jeehyun-main.link?intelligent-tiering=,HTTP/1.1"	200	-	169	-	47	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	XJo+5WDB9HvCoXGqqHMrDLVpy9MNGnvWVV53OmcOWPCJ6fZY2f+u809xj3IFsa2r+qXjHHmZyeA=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZD7N52ABMF4QVR5]
+ 6 [REST.GET.INTELLIGENT_TIERING]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?intelligent-tiering=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [169]
+12 [-]
+13 [47]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [XJo+5WDB9HvCoXGqqHMrDLVpy9MNGnvWVV53OmcOWPCJ6fZY2f+u809xj3IFsa2r+qXjHHmZyeA=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:20:05+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	DA30962EJCGWFP0K	REST.GET.VERSIONING	-	"GET,/jeehyun-main.link?versioning=,HTTP/1.1"	200	-	113	-	29	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	sQg171TUeTRZdtG3VxKwYUsU+ZxKkHoHsSFbXzLA/B+UAadGyvKjG02WywcH0bBGf8hcy4fRIM8=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:20:05+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [DA30962EJCGWFP0K]
+ 6 [REST.GET.VERSIONING]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?versioning=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [113]
+12 [-]
+13 [29]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [sQg171TUeTRZdtG3VxKwYUsU+ZxKkHoHsSFbXzLA/B+UAadGyvKjG02WywcH0bBGf8hcy4fRIM8=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZD60YN01MTQXGDA	REST.GET.ACCELERATE	-	"GET,/jeehyun-main.link?accelerate=,HTTP/1.1"	200	-	113	-	28	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	hKZg69ys6b2ze4JrCX76dEKjjRrxnF2qc40PSMcX+0zcWSA+DkmNJFDypzKxFbfZbotHd+SWe1U=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZD60YN01MTQXGDA]
+ 6 [REST.GET.ACCELERATE]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?accelerate=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [113]
+12 [-]
+13 [28]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [hKZg69ys6b2ze4JrCX76dEKjjRrxnF2qc40PSMcX+0zcWSA+DkmNJFDypzKxFbfZbotHd+SWe1U=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:19:49+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	JTJP65KENM8BYSXE	REST.PUT.OBJECT	password.txt	"PUT,/jeehyun-main.link/password.txt,HTTP/1.1"	200	-	-	0	46	15	-	"aws-cli/1.22.34,Python/3.10.6,Linux/5.15.0-60-generic,botocore/1.29.129"	-	79bMyOyk8x9kvyNNih1WTtIs5qsmaKPYFzTqDdjaEopubT70C6VVxeDWX8ROUePy5Io9FVodx1Y=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:19:49+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [JTJP65KENM8BYSXE]
+ 6 [REST.PUT.OBJECT]
+ 7 [password.txt]
+ 8 ["PUT,/jeehyun-main.link/password.txt,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [-]
+12 [0]
+13 [46]
+14 [15]
+15 [-]
+16 ["aws-cli/1.22.34,Python/3.10.6,Linux/5.15.0-60-generic,botocore/1.29.129"]
+17 [-]
+18 [79bMyOyk8x9kvyNNih1WTtIs5qsmaKPYFzTqDdjaEopubT70C6VVxeDWX8ROUePy5Io9FVodx1Y=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZDCD6BT3ZWC2VDB	REST.GET.TAGGING	-	"GET,/jeehyun-main.link?tagging=,HTTP/1.1"	404	NoSuchTagSet	297	-	39	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	7XFHXiRa2prIE96VLYWr6vBfBKEnMH6BRPAR7+nX6eMv7FqcHcSLuBi0yYHEdnWb24kx8YFArHQ=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZDCD6BT3ZWC2VDB]
+ 6 [REST.GET.TAGGING]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?tagging=,HTTP/1.1"]
+ 9 [404]
+10 [NoSuchTagSet]
+11 [297]
+12 [-]
+13 [39]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [7XFHXiRa2prIE96VLYWr6vBfBKEnMH6BRPAR7+nX6eMv7FqcHcSLuBi0yYHEdnWb24kx8YFArHQ=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:41+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	-	AJY6GFPYR5WX16WS	REST.GET.BUCKET	-	"GET,/jeehyun-main.link?list-type=2&max-keys=0&encoding-type=url,HTTP/1.1"	403	AccessDenied	243	-	3	-	-	"Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"	-	8DVybAkxD9xFYCy6c0+LYyrTRlyk8U7e/8Mg/qWj09S+9DhTKmomItpyAW1oksNJd5YTxN/gKQI=	-	-	-	s3.amazonaws.com	-	-	-
+
+ 0 [[20/May/2023:19:18:41+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [AJY6GFPYR5WX16WS]
+ 6 [REST.GET.BUCKET]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?list-type=2&max-keys=0&encoding-type=url,HTTP/1.1"]
+ 9 [403]
+10 [AccessDenied]
+11 [243]
+12 [-]
+13 [3]
+14 [-]
+15 [-]
+16 ["Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"]
+17 [-]
+18 [8DVybAkxD9xFYCy6c0+LYyrTRlyk8U7e/8Mg/qWj09S+9DhTKmomItpyAW1oksNJd5YTxN/gKQI=]
+19 [-]
+20 [-]
+21 [-]
+22 [s3.amazonaws.com]
+23 [-]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:41+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	-	AJY8ZT8BQ7SKD5GH	REST.GET.ACL	-	"GET,/jeehyun-main.link?acl,HTTP/1.1"	403	AccessDenied	243	-	14	-	-	"Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"	-	bzZ/FvGa/Q7K71TCLamyHWndtBj8gPvvyL2GgnwtBhN3NrluJd543uC3htpCRNce16ImiDCD7rA=	-	-	-	s3.amazonaws.com	-	-	-
+
+ 0 [[20/May/2023:19:18:41+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [-]
+ 5 [AJY8ZT8BQ7SKD5GH]
+ 6 [REST.GET.ACL]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?acl,HTTP/1.1"]
+ 9 [403]
+10 [AccessDenied]
+11 [243]
+12 [-]
+13 [14]
+14 [-]
+15 [-]
+16 ["Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129"]
+17 [-]
+18 [bzZ/FvGa/Q7K71TCLamyHWndtBj8gPvvyL2GgnwtBhN3NrluJd543uC3htpCRNce16ImiDCD7rA=]
+19 [-]
+20 [-]
+21 [-]
+22 [s3.amazonaws.com]
+23 [-]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZDA8ZPTBR0X8D2T	REST.GET.VERSIONING	-	"GET,/jeehyun-main.link?versioning=,HTTP/1.1"	200	-	113	-	26	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	3brpxnsXEufRR1KKHOy38PyUKIXDCqw+hmK3L13bDTYG/HGyBrnj/kAxPzy4lcuqYcIWJrMwUtc=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZDA8ZPTBR0X8D2T]
+ 6 [REST.GET.VERSIONING]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?versioning=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [113]
+12 [-]
+13 [26]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [3brpxnsXEufRR1KKHOy38PyUKIXDCqw+hmK3L13bDTYG/HGyBrnj/kAxPzy4lcuqYcIWJrMwUtc=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZDCHZ9NKW6ZWJGG	REST.GET.ENCRYPTION	-	"GET,/jeehyun-main.link?encryption=,HTTP/1.1"	200	-	320	-	28	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	oxORqjI6nZJH2qefIRgQtbZHXau5dn2KUf9Ef5jN+cBvCVsVVkQXrEV1B6HhB9n526s3LWRRsTXFO+zK1Dkw2w==	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZDCHZ9NKW6ZWJGG]
+ 6 [REST.GET.ENCRYPTION]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?encryption=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [320]
+12 [-]
+13 [28]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [oxORqjI6nZJH2qefIRgQtbZHXau5dn2KUf9Ef5jN+cBvCVsVVkQXrEV1B6HhB9n526s3LWRRsTXFO+zK1Dkw2w==]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:20:05+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	DA39BH1G9JJ6Y2XP	REST.GET.OWNERSHIP_CONTROLS	-	"GET,/jeehyun-main.link?ownershipControls=,HTTP/1.1"	200	-	193	-	68	67	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	mD9ywyWamMLvuPiM3K3z02Yq4AMImnGIdcYq2PIF+rrEl8Wq96g3gSvRwvHzQuxGnvuUniqyZLA=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:20:05+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [DA39BH1G9JJ6Y2XP]
+ 6 [REST.GET.OWNERSHIP_CONTROLS]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?ownershipControls=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [193]
+12 [-]
+13 [68]
+14 [67]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [mD9ywyWamMLvuPiM3K3z02Yq4AMImnGIdcYq2PIF+rrEl8Wq96g3gSvRwvHzQuxGnvuUniqyZLA=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZD0Y2NEP1E98ZS7	REST.HEAD.BUCKET	-	"HEAD,/jeehyun-main.link,HTTP/1.1"	200	-	-	-	26	25	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	n0MrUxbEfULkTBVQvyxonV1cV5VhRYjyBRNmMwOo/J/AdfcvNfBNkI7xy/JTcz38B9cRIiAqxyw=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZD0Y2NEP1E98ZS7]
+ 6 [REST.HEAD.BUCKET]
+ 7 [-]
+ 8 ["HEAD,/jeehyun-main.link,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [-]
+12 [-]
+13 [26]
+14 [25]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [n0MrUxbEfULkTBVQvyxonV1cV5VhRYjyBRNmMwOo/J/AdfcvNfBNkI7xy/JTcz38B9cRIiAqxyw=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:09+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	V0R2J15XEZH85781	REST.GET.ACL	-	"GET,/?acl,HTTP/1.1"	200	-	590	-	17	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	MWNkq/0tGCS4t45047vA6nA6okgmh1wEPA4PoYvo+db0dTdLqdWHkEP/QxUgQQrsGDCz+mfPlWc=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	jeehyun-main.link.s3.us-east-1.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:09+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [V0R2J15XEZH85781]
+ 6 [REST.GET.ACL]
+ 7 [-]
+ 8 ["GET,/?acl,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [590]
+12 [-]
+13 [17]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [MWNkq/0tGCS4t45047vA6nA6okgmh1wEPA4PoYvo+db0dTdLqdWHkEP/QxUgQQrsGDCz+mfPlWc=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [jeehyun-main.link.s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:09+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	V0R2JDPJTH8WRRZ9	REST.GET.POLICY_STATUS	-	"GET,/?policyStatus,HTTP/1.1"	200	-	141	-	11	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	HKwexqq2ZtX2ee3j5yiGdwdh5dW1qEapp57lKR+G6KJUs4r78OgOCrrQ68f1gY80/bqhKYIlBhY=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	jeehyun-main.link.s3.us-east-1.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:09+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [V0R2JDPJTH8WRRZ9]
+ 6 [REST.GET.POLICY_STATUS]
+ 7 [-]
+ 8 ["GET,/?policyStatus,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [141]
+12 [-]
+13 [11]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [HKwexqq2ZtX2ee3j5yiGdwdh5dW1qEapp57lKR+G6KJUs4r78OgOCrrQ68f1gY80/bqhKYIlBhY=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [jeehyun-main.link.s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:09+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	V0R9Q3SGA7S9PHGA	REST.GET.PUBLIC_ACCESS_BLOCK	-	"GET,/?publicAccessBlock,HTTP/1.1"	200	-	330	-	26	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	7RnvTb3xPPatoG4m5Lfy1bKJi0kcBFya3cuqhhCRr9hDUKlYy6/wDSglIaUlMWtaudFae6aOU10=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	jeehyun-main.link.s3.us-east-1.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:09+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [V0R9Q3SGA7S9PHGA]
+ 6 [REST.GET.PUBLIC_ACCESS_BLOCK]
+ 7 [-]
+ 8 ["GET,/?publicAccessBlock,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [330]
+12 [-]
+13 [26]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [7RnvTb3xPPatoG4m5Lfy1bKJi0kcBFya3cuqhhCRr9hDUKlYy6/wDSglIaUlMWtaudFae6aOU10=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [jeehyun-main.link.s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:18:08+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	KZDF407KTZ3X314W	REST.GET.REQUEST_PAYMENT	-	"GET,/jeehyun-main.link?requestPayment=,HTTP/1.1"	200	-	172	-	26	-	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	5m7vX5IQcwTwoJRK+vUSW4HdTA6FHWhQxUiTr8lvqA960luNVDYjFEOcv0C2sImD3q+Ml/GnFl8=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:18:08+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [KZDF407KTZ3X314W]
+ 6 [REST.GET.REQUEST_PAYMENT]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?requestPayment=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [172]
+12 [-]
+13 [26]
+14 [-]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [5m7vX5IQcwTwoJRK+vUSW4HdTA6FHWhQxUiTr8lvqA960luNVDYjFEOcv0C2sImD3q+Ml/GnFl8=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:20:05+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	DA347JB2QWV799G8	REST.GET.BUCKET	-	"GET,/jeehyun-main.link?list-type=2&encoding-type=url&max-keys=1000&fetch-owner=true&delimiter=%2F&prefix=,HTTP/1.1"	200	-	9446	-	49	48	-	"S3Console/0.4,cfg/retry-mode/legacy"	-	iLMPGVzH8WWvB9qdJYFYJFNuCWutFX7w6YUe4bdLkikgBRNgEgEE0jDsBXYuQ/XxAGmRok0bM5g=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:20:05+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [DA347JB2QWV799G8]
+ 6 [REST.GET.BUCKET]
+ 7 [-]
+ 8 ["GET,/jeehyun-main.link?list-type=2&encoding-type=url&max-keys=1000&fetch-owner=true&delimiter=%2F&prefix=,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [9446]
+12 [-]
+13 [49]
+14 [48]
+15 [-]
+16 ["S3Console/0.4,cfg/retry-mode/legacy"]
+17 [-]
+18 [iLMPGVzH8WWvB9qdJYFYJFNuCWutFX7w6YUe4bdLkikgBRNgEgEE0jDsBXYuQ/XxAGmRok0bM5g=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:19:21:09+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	72.198.67.233	arn:aws:iam::179704931439:user/dhwlgus3456	ZM7CMZG5F318B5XA	REST.DELETE.OBJECT	user.passwd	"DELETE,/jeehyun-main.link/user.passwd,HTTP/1.1"	204	-	-	0	39	-	-	"aws-cli/1.22.34,Python/3.10.6,Linux/5.15.0-60-generic,botocore/1.29.129"	-	+qP6+jGD7qUc/Yt/c9Y3/VYvGwnFlpfkllTwaVNjPZwi+BmZoc51J3PGLqd8GtXz2vMbNJfO1TM=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.amazonaws.com	TLSv1.2	-	-
+
+ 0 [[20/May/2023:19:21:09+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [72.198.67.233]
+ 4 [arn:aws:iam::179704931439:user/dhwlgus3456]
+ 5 [ZM7CMZG5F318B5XA]
+ 6 [REST.DELETE.OBJECT]
+ 7 [user.passwd]
+ 8 ["DELETE,/jeehyun-main.link/user.passwd,HTTP/1.1"]
+ 9 [204]
+10 [-]
+11 [-]
+12 [0]
+13 [39]
+14 [-]
+15 [-]
+16 ["aws-cli/1.22.34,Python/3.10.6,Linux/5.15.0-60-generic,botocore/1.29.129"]
+17 [-]
+18 [+qP6+jGD7qUc/Yt/c9Y3/VYvGwnFlpfkllTwaVNjPZwi+BmZoc51J3PGLqd8GtXz2vMbNJfO1TM=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+26 [20/May/2023:20:26:55+0000]	b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71	jeehyun-main.link	-	svc:s3.amazonaws.com	MFDBHZQ3RAW98WQQ	REST.PUT.OBJECT	access_log/attack_case/2023-05-20-20-26-55-C30197FF815ED22C	"PUT,/jeehyun-main.link/access_log/attack_case/2023-05-20-20-26-55-C30197FF815ED22C,HTTP/1.1"	200	-	-	466	61	35	-	-	-	pgEMwNXwL/BQffkEADHDDy5sYahVgFe3ayRagPTF9oByFwjWYqeEBsSpMQDIbKAQhIvOJkg0SBE=	SigV4	ECDHE-RSA-AES128-GCM-SHA256	AuthHeader	s3.us-east-1.amazonaws.com	TLSv1.2	-	-
+ 0 [[20/May/2023:20:26:55+0000]]
+ 1 [b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71]
+ 2 [jeehyun-main.link]
+ 3 [-]
+ 4 [svc:s3.amazonaws.com]
+ 5 [MFDBHZQ3RAW98WQQ]
+ 6 [REST.PUT.OBJECT]
+ 7 [access_log/attack_case/2023-05-20-20-26-55-C30197FF815ED22C]
+ 8 ["PUT,/jeehyun-main.link/access_log/attack_case/2023-05-20-20-26-55-C30197FF815ED22C,HTTP/1.1"]
+ 9 [200]
+10 [-]
+11 [-]
+12 [466]
+13 [61]
+14 [35]
+15 [-]
+16 [-]
+17 [-]
+18 [pgEMwNXwL/BQffkEADHDDy5sYahVgFe3ayRagPTF9oByFwjWYqeEBsSpMQDIbKAQhIvOJkg0SBE=]
+19 [SigV4]
+20 [ECDHE-RSA-AES128-GCM-SHA256]
+21 [AuthHeader]
+22 [s3.us-east-1.amazonaws.com]
+23 [TLSv1.2]
+24 [-]
+25 [-]
+
+-------profile----------
+0 Time 8 different values
+   [20/May/2023:19:18:08+0000] 11
+   [20/May/2023:19:18:40+0000] 1
+   [20/May/2023:19:18:41+0000] 4
+   [20/May/2023:19:20:05+0000] 3
+   [20/May/2023:19:19:49+0000] 1
+   [20/May/2023:19:18:09+0000] 3
+   [20/May/2023:19:21:09+0000] 1
+   [20/May/2023:20:26:55+0000] 1
+
+1 Bucket Owner 1 different values
+   b344fadcff6fe266163f3de3e1b3979e6d5938054fef6809556a6057717cdc71 25
+
+2 Requester 1 different values
+   jeehyun-main.link 25
+
+3 Remote IP 2 different values
+   72.198.67.233 24
+   - 1
+
+4 Access Point ARN 3 different values
+   arn:aws:iam::179704931439:user/dhwlgus3456 22
+   - 2
+   svc:s3.amazonaws.com 1
+
+5 Request ID 25 different values
+   KZDFNV1JTR1312C5 1
+   KZD0M7E3N1QC79KZ 1
+   KZD542RJ0GNYB6DD 1
+   KYD9QR6PX2VF3SRT 1
+   AJY12ENZJMNMQGRC 1
+   AJY4A4P6XEECTRGR 1
+   KZD2QCMMDF5J1BXR 1
+   KZD7N52ABMF4QVR5 1
+   DA30962EJCGWFP0K 1
+   KZD60YN01MTQXGDA 1
+   JTJP65KENM8BYSXE 1
+   KZDCD6BT3ZWC2VDB 1
+   AJY6GFPYR5WX16WS 1
+   AJY8ZT8BQ7SKD5GH 1
+   KZDA8ZPTBR0X8D2T 1
+   KZDCHZ9NKW6ZWJGG 1
+   DA39BH1G9JJ6Y2XP 1
+   KZD0Y2NEP1E98ZS7 1
+   V0R2J15XEZH85781 1
+   V0R2JDPJTH8WRRZ9 1
+   V0R9Q3SGA7S9PHGA 1
+   KZDF407KTZ3X314W 1
+   DA347JB2QWV799G8 1
+   ZM7CMZG5F318B5XA 1
+   MFDBHZQ3RAW98WQQ 1
+
+6 Operation 18 different values
+   REST.GET.OBJECT_LOCK_CONFIGURATION 1
+   REST.GET.LOGGING_STATUS 1
+   REST.GET.WEBSITE 1
+   REST.HEAD.BUCKET 2
+   REST.GET.BUCKET 3
+   REST.GET.ACL 3
+   REST.GET.NOTIFICATION 1
+   REST.GET.INTELLIGENT_TIERING 1
+   REST.GET.VERSIONING 2
+   REST.GET.ACCELERATE 1
+   REST.PUT.OBJECT 2
+   REST.GET.TAGGING 1
+   REST.GET.ENCRYPTION 1
+   REST.GET.OWNERSHIP_CONTROLS 1
+   REST.GET.POLICY_STATUS 1
+   REST.GET.PUBLIC_ACCESS_BLOCK 1
+   REST.GET.REQUEST_PAYMENT 1
+   REST.DELETE.OBJECT 1
+
+7 Key 4 different values
+   - 22
+   password.txt 1
+   user.passwd 1
+   access_log/attack_case/2023-05-20-20-26-55-C30197FF815ED22C 1
+
+8 Request-URI 21 different values
+   "GET,/jeehyun-main.link?object-lock=,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?logging=,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?website=,HTTP/1.1" 1
+   "HEAD,/jeehyun-main.link,HTTP/1.1" 2
+   "GET,/jeehyun-main.link?list-type=2&max-keys=0&encoding-type=url,HTTP/1.1" 2
+   "GET,/jeehyun-main.link?acl,HTTP/1.1" 2
+   "GET,/jeehyun-main.link?notification=,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?intelligent-tiering=,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?versioning=,HTTP/1.1" 2
+   "GET,/jeehyun-main.link?accelerate=,HTTP/1.1" 1
+   "PUT,/jeehyun-main.link/password.txt,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?tagging=,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?encryption=,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?ownershipControls=,HTTP/1.1" 1
+   "GET,/?acl,HTTP/1.1" 1
+   "GET,/?policyStatus,HTTP/1.1" 1
+   "GET,/?publicAccessBlock,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?requestPayment=,HTTP/1.1" 1
+   "GET,/jeehyun-main.link?list-type=2&encoding-type=url&max-keys=1000&fetch-owner=true&delimiter=%2F&prefix=,HTTP/1.1" 1
+   "DELETE,/jeehyun-main.link/user.passwd,HTTP/1.1" 1
+   "PUT,/jeehyun-main.link/access_log/attack_case/2023-05-20-20-26-55-C30197FF815ED22C,HTTP/1.1" 1
+
+9 HTTP status 4 different values
+   404 2
+   200 20
+   403 2
+   204 1
+
+10 Error Code 4 different values
+   ObjectLockConfigurationNotFoundError 1
+   - 21
+   NoSuchTagSet 1
+   AccessDenied 2
+
+11 Bytes Sent 17 different values
+   352 1
+   261 1
+   240 1
+   - 5
+   277 1
+   590 2
+   115 1
+   169 1
+   113 3
+   297 1
+   243 2
+   320 1
+   193 1
+   141 1
+   330 1
+   172 1
+   9446 1
+
+12 Object Size 3 different values
+   - 22
+   0 2
+   466 1
+
+13 Total Time 19 different values
+   32 1
+   30 2
+   21 1
+   5 1
+   15 1
+   25 1
+   47 1
+   29 1
+   28 2
+   46 1
+   39 2
+   3 1
+   14 1
+   26 4
+   68 1
+   17 1
+   11 1
+   49 1
+   61 1
+
+14 Turn-Around Time 9 different values
+   - 17
+   26 1
+   20 1
+   4 1
+   15 1
+   67 1
+   25 1
+   48 1
+   35 1
+
+15 Referer 1 different values
+   - 25
+
+16 User-Agent 4 different values
+   "S3Console/0.4,cfg/retry-mode/legacy" 17
+   "Boto3/1.26.129,Python/3.10.6,Linux/5.15.0-60-generic,Botocore/1.29.129" 5
+   "aws-cli/1.22.34,Python/3.10.6,Linux/5.15.0-60-generic,botocore/1.29.129" 2
+   - 1
+
+17 Version Id 1 different values
+   - 25
+
+18 Host Id 25 different values
+   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 1
+
+19 Signature Version 2 different values
+   SigV4 23
+   - 2
+
+20 Cipher Suite 2 different values
+   ECDHE-RSA-AES128-GCM-SHA256 20
+   - 5
+
+21 Authentication Type 2 different values
+   AuthHeader 23
+   - 2
+
+22 Host Header 3 different values
+   s3.amazonaws.com 21
+   jeehyun-main.link.s3.us-east-1.amazonaws.com 3
+   s3.us-east-1.amazonaws.com 1
+
+23 TLS version 2 different values
+   TLSv1.2 20
+   - 5
+
+24 aclRequired/Unknown 1 different values
+   - 25
+
+25 aclRequired/Unknown 1 different values
+   - 25
+
