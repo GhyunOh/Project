@@ -1,4 +1,4 @@
-##Offshore Platform Data Correlation Analysis##
+## Offshore Platform Data Correlation Analysis ##
 
 ### Overview
 This project analyzes sensor data collected from marine buoys to predict the replacement timing of mooring chains in offshore platforms. By preprocessing environmental and buoy data, finding meaningful correlations, and applying machine learning models, the project demonstrates the feasibility of predicting fatigue and maintenance cycles of mooring systems.
