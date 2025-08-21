@@ -47,7 +47,7 @@ To evaluate predictive performance, we compared **LinearSVR** and **XGBoost** mo
 - LinearSVR struggles with the nonlinear, complex relationships in marine data.  
 
 #### XGBoost
-![XGBoost Score](./XGB learning_rate.png)
+![XGBoost Score](./XGB_learning_rate.png)
 
 - Both training and test scores achieve consistently **high performance**.  
 - With learning_rate between 0.07–0.1, accuracy exceeds 95%.  
