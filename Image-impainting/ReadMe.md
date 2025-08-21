@@ -32,7 +32,7 @@ The challenge theme was **satellite image inpainting**, where the task was to fi
 ---
 
 ## 📊 Outcome
-- Achieved **7th place (Top 20%)** among 43 teams.  
+- Achieved **7th place** among 43 teams.  
 - Demonstrated that fine-tuned **diffusion + transformer models** can produce highly realistic inpainting results.  
 - Showed potential for further improvement with larger training and resource allocation.  
 
