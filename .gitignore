@@ -1,0 +1,5 @@
+Baron/code/
+Baron/plot/
+Baron/ppt/
+telscope-log/*
+!telscope-log/README.md
