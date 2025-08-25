@@ -21,7 +21,7 @@ The challenge theme was **satellite image inpainting**, where the task was to fi
    - Goal: Reconstruct missing regions realistically and seamlessly.  
 
 2. **Techniques Used**  
-   - **Diffusion-based models** for generative image completion.  
+   - **EdgeConnect** for generative image completion.  
    - **Transformer architectures** for contextual understanding.  
    - **Pre-trained models** fine-tuned for the competition dataset.  
 
@@ -33,7 +33,7 @@ The challenge theme was **satellite image inpainting**, where the task was to fi
 
 ## 📊 Outcome
 - Achieved **7th place** among 43 teams.  
-- Demonstrated that fine-tuned **diffusion + transformer models** can produce highly realistic inpainting results.  
+- Demonstrated that fine-tuned **transformer based model(CRFill) and EdgeConnect** can produce highly realistic inpainting results.  
 - Showed potential for further improvement with larger training and resource allocation.  
 
 ---
